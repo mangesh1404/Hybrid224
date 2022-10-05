@@ -1,0 +1,6 @@
+2022-10-05 20:21:32,195  INFO [main] BaseClass:23 - initializing browser
+2022-10-05 20:21:32,198  INFO [main] BaseClass:13 - reading property file for a key: browser
+2022-10-05 20:21:38,937  INFO [main] BaseClass:13 - reading property file for a key: url
+2022-10-05 20:22:24,035  INFO [main] BaseClass:23 - initializing browser
+2022-10-05 20:22:24,038  INFO [main] BaseClass:13 - reading property file for a key: browser
+2022-10-05 20:22:32,046  INFO [main] BaseClass:13 - reading property file for a key: url
